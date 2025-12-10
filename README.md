@@ -22,7 +22,7 @@ A machine learning-based Network Intrusion Detection System that uses LightGBM t
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/1kiloghoul7/NIDS.git
    cd NIDS
    ```
 
